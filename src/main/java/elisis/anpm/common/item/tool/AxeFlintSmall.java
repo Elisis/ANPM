@@ -1,6 +1,5 @@
-package elisis.anpm.common.item;
+package elisis.anpm.common.item.tool;
 
-import elisis.anpm.common.item.tool.ToolMaterials;
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
