@@ -34,6 +34,7 @@ public class ItemRegistration {
     public static final RegistryObject<ChunkRawNativeCopper> CHUNK_RAW_NATIVE_COPPER = ITEMS.register("chunk_raw_native_copper", ChunkRawNativeCopper::new);
     public static final RegistryObject<EarthMineralCopper> EARTH_MINERAL_COPPER = ITEMS.register("earth_mineral_copper", EarthMineralCopper::new);
     
+    
     // Iron
     public static final RegistryObject<ChunkRawNativeIron> CHUNK_RAW_NATIVE_IRON = ITEMS.register("chunk_raw_native_iron", ChunkRawNativeIron::new);
     public static final RegistryObject<EarthMineralIron> EARTH_MINERAL_IRON = ITEMS.register("earth_mineral_iron", EarthMineralIron::new);

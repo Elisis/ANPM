@@ -1,0 +1,22 @@
+{
+  "item.anpm.chunk_raw_native_copper": "Raw Native Copper Chunk",
+  "item.anpm.earth_mineral_copper": "Copper Mineral Earths",
+  "item.anpm.chunk_raw_native_iron": "Raw Native Iron Chunk",
+  "item.anpm.earth_mineral_iron": "Iron Mineral Earths",
+  "item.anpm.chunk_raw_native_tin": "Raw Native Tin Chunk",
+  "item.anpm.earth_mineral_tin": "Tin Mineral Earths",
+  "item.anpm.soft_native_copper": "Soft Native Copper",
+  "item.anpm.ingot_hot_copper": "Hot Copper Ingot",
+  "item.anpm.ingot_copper": "Copper Ingot",
+  "item.anpm.toolhead_pick_copper": "Copper Pickaxe Head",
+  "item.anpm.toolhead_axe_copper": "Copper Axe Head",
+  "item.anpm.toolhead_shovel_copper": "Copper Shovel Head",
+  "item.anpm.toolhead_sword_copper": "Copper Sword Head",
+  "item.anpm.pick_copper_crude": "Crude Copper Pickaxe",
+  "item.anpm.axe_copper_crude": "Crude Copper Axe",
+  "item.anpm.axe_flint_small": "Small Flint Axe",
+  "item.anpm.ore_chalcocite": "Chalcocite Ore",
+  "item.anpm.ore_cassiterite": "Cassiterite Ore",
+  "block.anpm.ore_chalcocite": "Chalcocite Ore",
+  "block.anpm.ore_cassiterite": "Cassiterite Ore"
+}
